@@ -8,12 +8,14 @@
 # General
 --------------------------------------------------------------*/
 :root {
-    /* --main-bg-color: #1de099;
-    --secondary-bg-color: #1dc8cd; */
-    --main-bg-color: #5474A5;
-    --main-bg-color-rgba: rgba(84,116,165, 0.8);
-    --secondary-bg-color: #B59EAF;
-    --secondary-bg-color-rgba: rgba(181,158,175, 0.8);
+    --main-bg-color: #1de099;
+    --secondary-bg-color: #1dc8cd;
+    --main-bg-color-rgba: rgba(29, 224, 153, 0.8);
+    --secondary-bg-color-rgba: rgba(29, 200, 205, 0.8)
+    /* --main-bg-color: #5474A5; */
+    /* --main-bg-color-rgba: rgba(84,116,165, 0.8); */
+    /* --secondary-bg-color: #B59EAF; */
+    /* --secondary-bg-color-rgba: rgba(181,158,175, 0.8); */
 }
 
 body {
